@@ -6,6 +6,9 @@ A modern, responsive cryptocurrency price tracking application built with React,
 ![Vite](https://img.shields.io/badge/Vite-5.0.0-purple?logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?logo=tailwind-css)
 
+## ⚡ Live Demo:
+-**https://peaceful-cranachan-9c305d.netlify.app/**
+
 ## ✨ Features
 
 - **Real-time Cryptocurrency Data**: Live price updates from CoinGecko API
