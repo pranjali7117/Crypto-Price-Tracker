@@ -7,7 +7,7 @@ A modern, responsive cryptocurrency price tracking application built with React,
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?logo=tailwind-css)
 
 ## ⚡ Live Demo:
--**https://peaceful-cranachan-9c305d.netlify.app/**
+-**https://coinledgerr.netlify.app/**
 
 ## ✨ Features
 
